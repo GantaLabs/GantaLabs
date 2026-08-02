@@ -91,6 +91,6 @@ Currently, I'm focusing on:
 
 <div align="center">
 
-### 💭 *"Keep building. Keep learning. Keep improving."*
+###  *"Building, learning, Improving."*
 
 </div>
