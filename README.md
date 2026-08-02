@@ -1,6 +1,6 @@
 # Hi, I'm Roganda Tua Tampubolon 
 
-![Header](assets\img\github-header-banner.png)
+![Header](assets/img/github-header-banner.png)
 
 <p align="center">
   <img
