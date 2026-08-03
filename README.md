@@ -56,7 +56,7 @@ Currently, I'm focusing on:
 
 <p align="center">
   <img height="170" src="https://github-readme-stats.shion.dev/api?username=Gantalabs&theme=github_dark&hide_border=true&include_all_commits=true&count_private=true"/>
-  <img height="170" src="https://github-readme-stats.shion.dev/api/top-langs/?username=Gantalabs&theme=github_dark&hide_border=true&layout=compact"/>
+  <img height="170" src="https://github-readme-stats.shion.dev/api/top-langs/?username=Gantalabs&theme=github_dark&hide_border=true&layout=compact&count_private=true"/>
 </p>
 
 <p align="center">
