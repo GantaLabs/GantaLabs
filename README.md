@@ -60,7 +60,7 @@ Currently, I'm focusing on:
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=Gantalabs&theme=github-dark&hide_border=true"/>
+  <a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=GantaLabs&theme=github-dark-blue&type=png" alt="GitHub Streak" /></a>
 </p>
 
 ---
