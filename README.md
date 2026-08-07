@@ -57,6 +57,17 @@ Currently, I'm focusing on:
   <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=GantaLabs&theme=github-dark-blue&cache_seconds=700" alt="GitHub Streak" /></a>
 </p>
 
+<p align="center">
+  <picture>
+    <source
+      media="(prefers-color-scheme: dark)"
+      srcset="https://raw.githubusercontent.com/GantaLabs/GantaLabs/output/github-contribution-grid-snake-dark.svg">
+    <img
+      src="https://raw.githubusercontent.com/GantaLabs/GantaLabs/output/github-contribution-grid-snake.svg"
+      alt="Snake animation">
+  </picture>
+</p>
+
 ---
 
 ##  Connect with Me
