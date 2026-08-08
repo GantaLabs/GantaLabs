@@ -92,7 +92,6 @@ Currently, I'm focusing on:
 
 </p>
 
----
 
 <div align="center">
 
