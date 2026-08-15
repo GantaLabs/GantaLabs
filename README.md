@@ -54,7 +54,7 @@ Currently, I'm focusing on:
 </p>
 
 <p align="center">
-  <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=GantaLabs&theme=github-dark-blue&cache_seconds=200" alt="GitHub Streak" /></a>
+  <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com/?user=GantaLabs&theme=github-dark-blue&cache_seconds=200" alt="GitHub Streak" /></a>
 </p>
 
 <p align="center">
