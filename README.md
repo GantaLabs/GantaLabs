@@ -9,7 +9,6 @@
   />
 </p>
 
-> *An Informatics Student who enjoys building software, solving problems, and exploring the world of data.*
 
 ---
 
