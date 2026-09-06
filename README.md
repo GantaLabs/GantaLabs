@@ -49,7 +49,7 @@ Currently, I'm focusing on:
 
 <p align="center">
   <img height="170" src="https://github-readme-stats.shion.dev/api?username=Gantalabs&theme=github_dark&hide_border=true&include_all_commits=true&count_private=true"/>
-  <img height="170" src="https://gt-github-readme-stats.vercel.app/api/top-langs/?username=GantaLabs&theme=github_dark&hide_border=true&layout=compact&count_private=true&forks_count=true"/>
+  <img height="170" src="https://gt-github-readme-stats.vercel.app/api/top-langs/?username=GantaLabs&theme=github_dark&hide_border=true&layout=compact&count_private=true&v=2"/>
 </p>
 
 <p align="center">
